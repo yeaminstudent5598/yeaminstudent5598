@@ -14,7 +14,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since...<br>2024 (when you started coding).<br>📚 I'm currently learning React, Firebase, Node.js, and mastering full-stack web development.<br>🎯 Goals:  Build innovative web applications, contribute to open-source projects, and help others learn coding.<br>🎲 Fun fact: Joking</p>
+<p align="left">✨ Creating bugs since...<br>2024 (when i started coding).<br>📚 I'm currently learning React, Firebase, Node.js, and mastering full-stack web development.<br>🎯 Goals:  Build innovative web applications, contribute to open-source projects, and help others learn coding.<br>🎲 Fun fact: Joking</p>
 
 ###
 
