@@ -1,6 +1,6 @@
 <h1 align="center">Yeamin Madbor</h1>
 
-<p align="center">
+<p align="center" height="600" >
   <img src="https://i.ibb.co.com/k6XkrTqC/Black-and-Blue-Simple-Business-Facebook-Cover.png" alt="Banner" width="100%" />
 </p>
 
