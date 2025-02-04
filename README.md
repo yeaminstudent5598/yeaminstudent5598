@@ -1,7 +1,7 @@
 <h1 align="center">Yeamin Madbor</h1>
 
 <p align="center">
-  <img src="https://i.ibb.co.com/tTh6d2zz/Black-and-Blue-Simple-Business-Facebook-Cover-1.png" alt="Banner" width="80%" />
+  <img src="https://i.ibb.co.com/tTh6d2zz/Black-and-Blue-Simple-Business-Facebook-Cover-1.png" alt="Banner" width="100%" />
 </p>
 
 <h3 align="center">Full-stack Developer | Passionate About Web Development</h3>
