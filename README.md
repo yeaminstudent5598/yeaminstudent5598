@@ -1,76 +1,139 @@
 <h1 align="center">Yeamin Madbor</h1>
 
-<p align="center" height="600" >
+<p align="center">
   <img src="https://i.ibb.co.com/k6XkrTqC/Black-and-Blue-Simple-Business-Facebook-Cover.png" alt="Banner" width="100%" />
 </p>
 
-###
+<h3 align="center">Full-stack Developer | Passionate About Web Development</h3>
 
-<h3 align="center">Full-stack Developer</h3>
+---
 
-###
+### 📍 Location & Contact Information
+- 📍 **Location:** Bangladesh
+- 📧 **Email:** [your.email@example.com](mailto:your.email@example.com)
+- 📞 **Contact Number:** +8801XXXXXXXXX
 
-<h4 align="left">About me</h4>
+---
 
-###
+## 🚀 About Me
 
+Hi, I'm **Yeamin Madbor**, a passionate **Full-stack Developer** from Bangladesh. I specialize in **React, Firebase, and building dynamic web applications**. I love learning new technologies and contributing to open-source projects.
+
+### 🔥 **Current Activities**
+- 🔭 **I’m currently working on** a MERN stack e-commerce project.
+- 📚 **I’m learning** Next.js, GraphQL, and improving backend skills.
+- 🎯 **Goal:** To become a proficient full-stack developer and contribute to open-source.
+- ⚡ **Fun Fact:** I love debugging more than coding!
+
+---
+
+## 🛠️ Skills
+
+### 🔹 Frontend  
 <p align="left">
-  My name is Yeamin Madbor, and I'm a passionate Web Developer from Bangladesh. I specialize in React, Firebase, and building dynamic web applications.
-</p>
-
-###
-
-<p align="left">
-  ✨ Creating bugs since...<br>
-  🛠️ 2024 (when I started coding).<br>
-  📚 I'm currently learning React, Firebase, Node.js, and mastering full-stack web development.<br>
-  🎯 Goals: Build innovative web applications, contribute to open-source projects, and help others learn coding.<br>
-  🎲 Fun fact: Joking.
-</p>
-
-###
-
-<h4 align="left">I code with</h4>
-
-###
-
-<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="Firebase" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="Tailwind CSS" />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
-</div>
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="40" alt="Tailwind CSS" />
+</p>
 
-###
+### 🔹 Backend & Database  
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="Express.js" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="Firebase" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB" />
+</p>
 
-<h4 align="left">Social Links</h4>
+### 🔹 Tools & Version Control  
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VS Code" />
+</p>
 
-###
+---
 
-<div align="left">
+## 🌍 Connect with Me  
+<p align="left">
   <a href="https://www.linkedin.com/in/yeamin-madbor-83b3302b8/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="LinkedIn" />
   </a>
-</div>
+  <a href="https://github.com/yeaminstudent5598" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="52" height="40" alt="GitHub" />
+  </a>
+</p>
 
-###
+---
 
-<h4 align="left">My Stats</h4>
-
-###
+## 📊 GitHub Stats  
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yeaminstudent5598&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yeaminstudent5598&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="Top Languages" />
-  <img src="https://streak-stats.demolab.com?user=yeaminstudent5598&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="Streak Stats" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yeaminstudent5598&radius=16&theme=react&area=true&order=5" height="300" alt="Activity Graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=yeaminstudent5598&show_icons=true&include_all_commits=true&count_private=true&theme=dracula" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yeaminstudent5598&layout=compact&langs_count=5&theme=dracula" height="150" alt="Top Languages" />
+  <img src="https://streak-stats.demolab.com?user=yeaminstudent5598&theme=dracula" height="150" alt="GitHub Streak" />
 </div>
+
+---
+
+## 📌 Pinned Repositories
+
+### 🌟 Project 1: E-Commerce Website  
+📝 **Overview:** A fully functional e-commerce website with authentication and payment integration.  
+🔗 **Live Demo:** [Demo Link](#)  
+🛠 **Tech Stack:** React, Node.js, Firebase, MongoDB  
+📂 **Repository:** [GitHub Repo](#)
+
+---
+
+### 🌟 Project 2: Blogging Platform  
+📝 **Overview:** A blog platform where users can create, edit, and delete posts.  
+🔗 **Live Demo:** [Demo Link](#)  
+🛠 **Tech Stack:** Next.js, GraphQL, Tailwind CSS  
+📂 **Repository:** [GitHub Repo](#)
+
+---
+
+### 🌟 Project 3: Portfolio Website  
+📝 **Overview:** A personal portfolio website to showcase my skills and projects.  
+🔗 **Live Demo:** [Demo Link](#)  
+🛠 **Tech Stack:** React, Tailwind CSS, Firebase  
+📂 **Repository:** [GitHub Repo](#)
+
+---
+
+## 📂 Repository README Structure  
+
+Each repository should include:
+1. **Project Overview**  
+2. **Screenshot (if available)**  
+3. **Technologies Used**  
+4. **Core Features**  
+5. **Dependencies**  
+6. **Installation Guide**  
+7. **Live Demo & Resources**  
+
+---
+
+## 🎯 Goals for 2024
+- ✅ Improve backend skills with Next.js & GraphQL.
+- ✅ Contribute to open-source projects.
+- ✅ Build scalable web applications.
+
+---
+
+### 🚀 **Thanks for Visiting My GitHub Profile!**  
+
+<p align="center">
+  <img src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" width="200" />
+</p>
