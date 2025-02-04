@@ -107,34 +107,28 @@ RoktoKhoj is a platform that connects blood donors and recipients, allowing user
 📂 **Server Side Repo:** [GitHub](https://github.com/yeaminstudent5598/roktokhoj-server-side.git)  
 ---
 
-### 🌟 Project 2: Blogging Platform  
-📝 **Overview:** A blog platform where users can create, edit, and delete posts.  
-🔗 **Live Demo:** [Demo Link](#)  
-🛠 **Tech Stack:** Next.js, GraphQL, Tailwind CSS  
-📂 **Repository:** [GitHub Repo](#)
+## 🌟 Project 3: TaskHub – Task Management Platform  
+📝 **Overview:**  
+TaskHub is an online platform for creating, completing, and grading group-study assignments, fostering collaboration and simplifying task management. 
+
+🔗 **Live Demo:** [TaskHub Live](https://task-hub-e1fcb.web.app/)  
+🛠 **Technologies Used:** React.js, Firebase, React Context API, Tailwind CSS, Git, GitHub, axios, moment, node.js  
+
+📂 **Client Side Repo:** [GitHub](https://github.com/yeaminstudent5598/task-hub-client-side.git)  
+📂 **Server Side Repo:** [GitHub](https://github.com/yeaminstudent5598/task-hub-server-side.git)  
 
 ---
 
 ### 🌟 Project 3: Portfolio Website  
-📝 **Overview:** A personal portfolio website to showcase my skills and projects.  
-🔗 **Live Demo:** [Demo Link](#)  
-🛠 **Tech Stack:** React, Tailwind CSS, Firebase  
-📂 **Repository:** [GitHub Repo](#)
+📝 **Overview:** Gadget Heaven is a platform to explore and manage the latest gadgets. Dive into exclusive products and enjoy a seamless shopping experience!  
+🔗 **Live Demo:** [View Here](https://emerald-risa-90.tiiny.site/)   
+### 🛠 **Technologies Used:**  
+React.js, Context API, Local Storage, React Router, PropTypes, Tailwind CSS, Toast Notifications  
+📂 **Repository:** [GitHub Repo](https://github.com/yeaminstudent5598/Gadget-Haven.git)
 
 ---
 
-## 📂 Repository README Structure  
 
-Each repository should include:
-1. **Project Overview**  
-2. **Screenshot (if available)**  
-3. **Technologies Used**  
-4. **Core Features**  
-5. **Dependencies**  
-6. **Installation Guide**  
-7. **Live Demo & Resources**  
-
----
 
 ## 🎯 Goals for 2024
 - ✅ Improve backend skills with Next.js & GraphQL.
