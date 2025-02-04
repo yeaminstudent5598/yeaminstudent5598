@@ -10,8 +10,8 @@
 
 ### 📍 Location & Contact Information
 - 📍 **Location:** Bangladesh
-- 📧 **Email:** [your.email@example.com](mailto:your.email@example.com)
-- 📞 **Contact Number:** +8801XXXXXXXXX
+- 📧 **Email:** yeaminstudent5598@gmail.com
+- 📞 **Contact Number:** +8801641801705
 
 ---
 
