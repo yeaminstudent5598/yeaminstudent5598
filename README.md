@@ -94,33 +94,6 @@ Hi, I'm **Yeamin Madbor**, a passionate **Full-stack Developer** from Bangladesh
 
 ---
 
-## 📌 Pinned Repositories
-## 🌟 Project 1: RoktoKhoj – Blood Donation Platform  
-📝 **Overview:**  
-RoktoKhoj is a platform that connects blood donors and recipients, allowing users to find donors based on location and blood type.  
-🔗 **Live Demo:** [RoktoKhoj](https://roktokhoj.web.app/)  
-🛠 **Tech Stack:** React, Firebase, Node.js, MongoDB  
- 📂 **Client Side Repo:** [GitHub](https://github.com/yeaminstudent5598/roktokhoj-client-side.git)  
-📂 **Server Side Repo:** [GitHub](https://github.com/yeaminstudent5598/roktokhoj-server-side.git)  
----
-## 🌟 Project 2: TaskHub – Task Management Platform  
-📝 **Overview:**  
-TaskHub is an online platform for creating, completing, and grading group-study assignments, fostering collaboration and simplifying task management. 
-🔗 **Live Demo:** [TaskHub Live](https://task-hub-e1fcb.web.app/)  
-🛠 **Technologies Used:** React.js, Firebase, React Context API, Tailwind CSS, Git, GitHub, axios, moment, node.js  
-📂 **Client Side Repo:** [GitHub](https://github.com/yeaminstudent5598/task-hub-client-side.git)  
-📂 **Server Side Repo:** [GitHub](https://github.com/yeaminstudent5598/task-hub-server-side.git)  
----
-### 🌟 Project 3: Portfolio Website  
-📝 **Overview:** Gadget Heaven is a platform to explore and manage the latest gadgets. Dive into exclusive products and enjoy a seamless shopping experience!  
-🔗 **Live Demo:** [View Here](https://emerald-risa-90.tiiny.site/)   
-### 🛠 **Technologies Used:**  
-React.js, Context API, Local Storage, React Router, PropTypes, Tailwind CSS, Toast Notifications  
-📂 **Repository:** [GitHub Repo](https://github.com/yeaminstudent5598/Gadget-Haven.git)
----
-
-
-
 ## 🎯 Goals for 2025
 - ✅ Improve backend skills with Next.js & GraphQL.
 - ✅ Contribute to open-source projects.
