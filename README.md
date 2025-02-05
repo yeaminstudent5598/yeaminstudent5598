@@ -130,7 +130,7 @@ React.js, Context API, Local Storage, React Router, PropTypes, Tailwind CSS, Toa
 
 
 
-## 🎯 Goals for 2024
+## 🎯 Goals for 2025
 - ✅ Improve backend skills with Next.js & GraphQL.
 - ✅ Contribute to open-source projects.
 - ✅ Build scalable web applications.
