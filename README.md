@@ -107,7 +107,7 @@ RoktoKhoj is a platform that connects blood donors and recipients, allowing user
 📂 **Server Side Repo:** [GitHub](https://github.com/yeaminstudent5598/roktokhoj-server-side.git)  
 ---
 
-## 🌟 Project 3: TaskHub – Task Management Platform  
+## 🌟 Project 2: TaskHub – Task Management Platform  
 📝 **Overview:**  
 TaskHub is an online platform for creating, completing, and grading group-study assignments, fostering collaboration and simplifying task management. 
 
