@@ -101,9 +101,3 @@ Hi, I'm **Yeamin Madbor**, a passionate **Full-stack Developer** from Bangladesh
 - ✅ Build scalable web applications.
 
 ---
-
-### 🚀 **Thanks for Visiting My GitHub Profile!**  
-
-<p align="center">
-  <img src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" width="200" />
-</p>
