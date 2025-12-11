@@ -95,8 +95,8 @@ Hi, I'm **Yeamin Madbor**, a passionate **Full-Stack Developer** from Bangladesh
 ### 🤖 **AI & Machine Learning Specialization (Upcoming)**
 > *Planning to enroll in the Phitron AI/ML Expert Program (March 2026)*
 - **Core Focus:** Master Python, Math for ML, Deep Learning, and LLMs.
-- **Academic Goal:** Publish a research paper (IEEE/Springer) and complete a Thesis under industry experts.
-- **Project Goal:** Build AI-powered applications merging Computer Vision & NLP.
+- **Research Goal:** Conduct advanced research under industry experts and aim for a publication (IEEE/Springer).
+- **Project Goal:** Build AI-powered applications by merging Computer Vision & NLP with Web Technologies.
 
 ### ⚙️ **Backend Engineering Mastery**
 - **Microservices:** Deep dive into Node.js architecture and System Design.
