@@ -17,14 +17,13 @@
 
 ## 🚀 About Me
 
-Hi, I'm **Yeamin Madbor**, a passionate **Full-stack Developer** from Bangladesh. I specialize in **React, Firebase, and building dynamic web applications**. I love learning new technologies and contributing to open-source projects.
+Hi, I'm **Yeamin Madbor**, a passionate **Full-stack Developer** from Bangladesh. I specialize in **JavaScript, React.js, Next.js, and building dynamic web applications**. I love learning new technologies and contributing to open-source projects.
 
 ### 🔥 **Current Activities**
 - 🔭 **I’m currently working on** a MERN stack e-commerce project.
-- 📚 **I’m learning** Next.js, GraphQL, and improving backend skills.
-- 🎯 **Goal:** To become a proficient full-stack developer and contribute to open-source.
+- 📚 **I’m learning** Advanced Next.js, GraphQL, and System Design.
+- 🎯 **Goal:** To build scalable applications and contribute to major open-source projects.
 - ⚡ **Fun Fact:** I love debugging more than coding!
-
 ---
 
 ## 🛠️ Skills
