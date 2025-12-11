@@ -90,9 +90,17 @@ Hi, I'm **Yeamin Madbor**, a passionate **Full-Stack Developer** from Bangladesh
 
 ---
 
-## 🎯 Future Goals (2026)
-- ✅ Master Backend Engineering with Node.js & Microservices.
-- ✅ Contribute to major Open-Source projects.
-- ✅ Build a SaaS product from scratch.
+## 🎯 Roadmap & Future Goals (2026)
+
+### 🤖 **AI & Machine Learning Specialization (Upcoming)**
+> *Planning to enroll in the Phitron AI/ML Expert Program (March 2026)*
+- **Core Focus:** Master Python, Math for ML, Deep Learning, and LLMs.
+- **Academic Goal:** Publish a research paper (IEEE/Springer) and complete a Thesis under industry experts.
+- **Project Goal:** Build AI-powered applications merging Computer Vision & NLP.
+
+### ⚙️ **Backend Engineering Mastery**
+- **Microservices:** Deep dive into Node.js architecture and System Design.
+- **Integration:** Building scalable SaaS products by integrating custom AI models with MERN Stack.
+
 
 ---
