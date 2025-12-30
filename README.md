@@ -15,7 +15,7 @@
 
 ## 🚀 About Me
 
-Hi, I'm **Yeamin Madbor**, a passionate **Full-Stack Developer** from Bangladesh. I specialize in **JavaScript, React.js, Next.js, and building dynamic web applications**. I love learning new technologies and contributing to open-source projects.
+Hi, I'm **Yeamin Madbor**, a passionate **Full-Stack Developer** from Bangladesh. I specialize in **JavaScript,TypeScript, React.js, Next.js, and building dynamic web applications**. I love learning new technologies and contributing to open-source projects.
 
 ### 🔥 **Current Activities**
 - 🔭 **I’m currently working on** a MERN stack e-commerce project.
@@ -31,15 +31,21 @@ Hi, I'm **Yeamin Madbor**, a passionate **Full-Stack Developer** from Bangladesh
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="Next.js" />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="40" alt="Redux Toolkit" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="40" alt="Tailwind CSS" />
+  <img width="12" />
+  <img src="https://img.icons8.com/external-tal-revivo-duo-tal-revivo/100/external-framer-motion-a-production-ready-motion-library-for-react-logo-duo-tal-revivo.png" height="40" alt="Framer Motion" />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="40" alt="Tailwind CSS" />
 </p>
 
 ### 🔹 Backend & Database
@@ -48,22 +54,29 @@ Hi, I'm **Yeamin Madbor**, a passionate **Full-Stack Developer** from Bangladesh
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="Express.js" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="Firebase" />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" height="40" alt="Prisma ORM" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="Firebase" />
 </p>
 
-### 🔹 Tools & Version Control
+### 🔹 Design & Tools
 <p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="Figma" />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VS Code" />
+  <img width="12" />
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" height="40" alt="Postman" />
 </p>
 
 ---
-
 ## 🌍 Connect with Me
 <p align="left">
   <a href="https://www.linkedin.com/in/yeamin-madbor-83b3302b8/" target="_blank">
