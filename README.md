@@ -1,7 +1,7 @@
 <h1 align="center">Yeamin Madbor</h1>
 
 <p align="center">
-  <img src="https://i.ibb.co.com/tTh6d2zz/Black-and-Blue-Simple-Business-Facebook-Cover-1.png" alt="Banner" width="100%" />
+  <img src="https://i.ibb.co.com/3YvPzcfv/White-Blue-Professional-Website-Developer-Linked-In-Banner.png" alt="Banner" width="100%" />
 </p>
 
 <h3 align="center">Full-Stack Web Developer | MERN Stack Enthusiast</h3>
