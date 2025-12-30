@@ -6,11 +6,10 @@
 
 <h3 align="center">Full-Stack Web Developer | MERN Stack Enthusiast</h3>
 
----
+<p align="center">
+  📍 <b>Location:</b> Dhaka, Bangladesh | 📧 <b>Email:</b> <a href="mailto:yeaminstudent5598@gmail.com">yeaminstudent5598@gmail.com</a>
+</p>
 
-### 📍 Location & Contact Information
-- 📍 **Location:** Dhaka, Bangladesh
-- 📧 **Email:** yeaminstudent5598@gmail.com
 ---
 
 # 🚀 About Me
@@ -26,7 +25,6 @@ I specialize in building modern web applications from scratch. Whether it's craf
 - **Frontend:** Creating pixel-perfect, responsive UIs using **Tailwind CSS and Framer Motion**.
 - **Backend:** Designing secure APIs and managing databases like **MongoDB and PostgreSQL**.
 - **Current Focus:** I am currently building a **Multi-vendor E-commerce platform**, focusing on scalability and performance.
----
 
 ---
 
@@ -82,6 +80,7 @@ I specialize in building modern web applications from scratch. Whether it's craf
 </p>
 
 ---
+
 ## 🌍 Connect with Me
 <p align="left">
   <a href="https://www.linkedin.com/in/yeamin-madbor-83b3302b8/" target="_blank">
@@ -97,28 +96,24 @@ I specialize in building modern web applications from scratch. Whether it's craf
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yeaminstudent5598&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yeaminstudent5598&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph" />
-  
-  <img src="https://streak-stats.demolab.com?user=yeaminstudent5598&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" />
-  
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yeaminstudent5598&radius=16&theme=dracula&area=true&order=5" height="300" alt="activity-graph graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=yeaminstudent5598&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yeaminstudent5598&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
+</div>
+
+<div align="center" style="margin-top: 10px;">
+  <img src="https://streak-stats.demolab.com?user=yeaminstudent5598&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yeaminstudent5598&radius=16&theme=dracula&area=true" height="150" alt="activity-graph graph" />
 </div>
 
 ---
 
 ## 🎯 Roadmap & Future Goals (2026)
 
-### 🤖 **AI & Machine Learning Specialization (Upcoming)**
-> *Planning to enroll in the Phitron AI/ML Expert Program (March 2026)*
+### 🤖 AI & Machine Learning Specialization (Upcoming)
 - **Core Focus:** Master Python, Math for ML, Deep Learning, and LLMs.
-- **Research Goal:** Conduct advanced research under industry experts and aim for a publication (IEEE/Springer).
-- **Project Goal:** Build AI-powered applications by merging Computer Vision & NLP with Web Technologies.
+- **Research Goal:** Aiming for a research publication (IEEE/Springer) under industry experts.
+- **Project Goal:** Build AI-powered applications by merging Computer Vision & NLP with Web Tech.
 
-### ⚙️ **Backend Engineering Mastery**
+### ⚙️ Backend Engineering Mastery
 - **Microservices:** Deep dive into Node.js architecture and System Design.
-- **Integration:** Building scalable SaaS products by integrating custom AI models with MERN Stack.
-
-
----
+- **Integration:** Building scalable SaaS products with custom AI models.
