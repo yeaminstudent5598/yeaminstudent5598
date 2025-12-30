@@ -13,15 +13,20 @@
 - 📧 **Email:** yeaminstudent5598@gmail.com
 ---
 
-## 🚀 About Me
+# 🚀 About Me
 
-Hi, I'm **Yeamin Madbor**, a passionate **Full-Stack Developer** from Bangladesh. I specialize in **JavaScript,TypeScript, React.js, Next.js, and building dynamic web applications**. I love learning new technologies and contributing to open-source projects.
+Hi there! 👋 I'm **Yeamin Madbor**, a dedicated **Full-Stack Developer** from Bangladesh with a deep passion for the JavaScript and TypeScript ecosystem. 
 
-### 🔥 **Current Activities**
-- 🔭 **I’m currently working on** a MERN stack e-commerce project.
-- 📚 **I’m learning** Advanced Next.js, GraphQL, and System Design.
-- 🎯 **Goal:** To build scalable applications and contribute to major open-source projects.
-- ⚡ **Fun Fact:** I love debugging more than coding!
+### 🔭 My Vision
+My vision is to bridge the gap between complex human needs and seamless digital solutions. I strive to build high-performance, scalable, and user-centric applications that not only solve real-world problems but also empower businesses to grow through the power of clean and efficient code.
+
+### 💻 What I Do
+I specialize in building modern web applications from scratch. Whether it's crafting intuitive user interfaces with **React.js and Next.js** or architecting robust backends with **Node.js, Express, and Prisma**, I enjoy every bit of the development lifecycle. 
+
+- **Frontend:** Creating pixel-perfect, responsive UIs using **Tailwind CSS and Framer Motion**.
+- **Backend:** Designing secure APIs and managing databases like **MongoDB and PostgreSQL**.
+- **Current Focus:** I am currently building a **Multi-vendor E-commerce platform**, focusing on scalability and performance.
+---
 
 ---
 
