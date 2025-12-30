@@ -1,7 +1,7 @@
 <h1 align="center">Yeamin Madbor</h1>
 
 <p align="center">
-  <img src="https://i.ibb.co.com/3YvPzcfv/White-Blue-Professional-Website-Developer-Linked-In-Banner.png" alt="Yeamin Madbor Banner" width="100%" />
+  <img src="https://i.ibb.co.com/PsMr073V/yeamin.jpg" alt="Yeamin Madbor Banner" width="100%" />
 </p>
 
 <p align="center">
