@@ -41,7 +41,7 @@ Hi, I'm **Yeamin Madbor**, a passionate **Full-Stack Developer** from Bangladesh
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="40" alt="Tailwind CSS" />
   <img width="12" />
-  <img src="https://img.icons8.com/external-tal-revivo-duo-tal-revivo/100/external-framer-motion-a-production-ready-motion-library-for-react-logo-duo-tal-revivo.png" height="40" alt="Framer Motion" />
+  <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" height="40" alt="Framer Motion" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
   <img width="12" />
