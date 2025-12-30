@@ -95,14 +95,20 @@ I specialize in building modern web applications from scratch. Whether it's craf
 
 ### 📊 GitHub Activity & Stats
 
-<div align="center" style="margin-top: 10px;">
-  <img src="https://streak-stats.demolab.com?user=yeaminstudent5598&theme=material-palenight" alt="GitHub Streak" height="170" />
+<div align="center">
+  <img src="https://metrics.lecoq.io/yeaminstudent5598?template=classic&config.timezone=Asia%2FDhaka" alt="GitHub Metrics" width="100%" />
   
+  <br/><br/>
+
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yeaminstudent5598&theme=dracula" alt="Stats Card" height="180" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-used-languages?username=yeaminstudent5598&theme=dracula" alt="Languages Card" height="180" />
+</div>
+
+<div align="center" style="margin-top: 10px;">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=yeaminstudent5598&theme=dracula&area=true" alt="Activity Graph" width="100%" />
 </div>
 
 ---
-
 ### 🎯 Roadmap & Future Goals (2026)
 
 #### 🤖 **AI & Machine Learning Specialization**
