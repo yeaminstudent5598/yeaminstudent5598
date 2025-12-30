@@ -43,7 +43,6 @@ My vision is to bridge the gap between complex human needs and seamless digital 
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yeaminstudent5598&theme=dracula" height="180" alt="Stats Card" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-used-languages?username=yeaminstudent5598&theme=dracula" height="180" alt="Languages Card" />
   
   <br/>
 
