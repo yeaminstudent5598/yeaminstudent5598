@@ -1,36 +1,36 @@
 <h1 align="center">Yeamin Madbor</h1>
 
 <p align="center">
-  <img src="https://i.ibb.co.com/3YvPzcfv/White-Blue-Professional-Website-Developer-Linked-In-Banner.png" alt="Banner" width="100%" />
+  <img src="https://i.ibb.co.com/3YvPzcfv/White-Blue-Professional-Website-Developer-Linked-In-Banner.png" alt="Yeamin Madbor Banner" width="100%" />
 </p>
-
-<h3 align="center">Full-Stack Web Developer | MERN Stack Enthusiast</h3>
 
 <p align="center">
-  📍 <b>Location:</b> Dhaka, Bangladesh | 📧 <b>Email:</b> <a href="mailto:yeaminstudent5598@gmail.com">yeaminstudent5598@gmail.com</a>
+  <img src="https://img.shields.io/badge/Full--Stack%20Developer-MERN%20Stack-blue?style=flat-square" alt="Title" />
+  <img src="https://img.shields.io/badge/Location-Dhaka%2C%20Bangladesh-green?style=flat-square" alt="Location" />
+  <img src="https://img.shields.io/badge/Open%20To-Collaboration-orange?style=flat-square" alt="Status" />
 </p>
 
 ---
 
-# 🚀 About Me
+### 🚀 About Me
 
-Hi there! 👋 I'm **Yeamin Madbor**, a dedicated **Full-Stack Developer** from Bangladesh with a deep passion for the JavaScript and TypeScript ecosystem. 
+Hi there! 👋 I'm **Yeamin Madbor**, a dedicated **Full-Stack Developer** from Bangladesh with a deep passion for the **JavaScript and TypeScript** ecosystem. 
 
-### 🔭 My Vision
+#### 🔭 My Vision
 My vision is to bridge the gap between complex human needs and seamless digital solutions. I strive to build high-performance, scalable, and user-centric applications that not only solve real-world problems but also empower businesses to grow through the power of clean and efficient code.
 
-### 💻 What I Do
+#### 💻 What I Do
 I specialize in building modern web applications from scratch. Whether it's crafting intuitive user interfaces with **React.js and Next.js** or architecting robust backends with **Node.js, Express, and Prisma**, I enjoy every bit of the development lifecycle. 
 
-- **Frontend:** Creating pixel-perfect, responsive UIs using **Tailwind CSS and Framer Motion**.
-- **Backend:** Designing secure APIs and managing databases like **MongoDB and PostgreSQL**.
-- **Current Focus:** I am currently building a **Multi-vendor E-commerce platform**, focusing on scalability and performance.
+* **Frontend:** Creating pixel-perfect, responsive UIs using **Tailwind CSS and Framer Motion**.
+* **Backend:** Designing secure APIs and managing databases like **MongoDB and PostgreSQL**.
+* **Current Focus:** Building a comprehensive **Multi-vendor E-commerce platform**, focusing on scalability and performance.
 
 ---
 
-## 🛠️ Skills
+### 🛠️ My Tech Stack
 
-### 🔹 Frontend
+#### 🔹 Frontend Technologies
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
   <img width="12" />
@@ -51,7 +51,7 @@ I specialize in building modern web applications from scratch. Whether it's craf
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
 </p>
 
-### 🔹 Backend & Database
+#### 🔹 Backend & Database
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" />
   <img width="12" />
@@ -66,7 +66,7 @@ I specialize in building modern web applications from scratch. Whether it's craf
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="Firebase" />
 </p>
 
-### 🔹 Design & Tools
+#### 🔹 Design & Tools
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="Figma" />
   <img width="12" />
@@ -81,7 +81,7 @@ I specialize in building modern web applications from scratch. Whether it's craf
 
 ---
 
-## 🌍 Connect with Me
+### 🌍 Connect with Me
 <p align="left">
   <a href="https://www.linkedin.com/in/yeamin-madbor-83b3302b8/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -93,27 +93,30 @@ I specialize in building modern web applications from scratch. Whether it's craf
 
 ---
 
-## 📊 GitHub Stats
+### 📊 GitHub Activity & Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yeaminstudent5598&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yeaminstudent5598&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=yeaminstudent5598&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Yeamin's GitHub Stats" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yeaminstudent5598&layout=compact&theme=dracula&langs_count=6" alt="Most Used Languages" height="180" />
 </div>
 
 <div align="center" style="margin-top: 10px;">
-  <img src="https://streak-stats.demolab.com?user=yeaminstudent5598&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yeaminstudent5598&radius=16&theme=dracula&area=true" height="150" alt="activity-graph graph" />
+  <img src="https://streak-stats.demolab.com?user=yeaminstudent5598&theme=dracula&hide_border=false" alt="GitHub Streak" height="160" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yeaminstudent5598&theme=dracula&area=true" alt="Activity Graph" height="160" />
 </div>
 
 ---
 
-## 🎯 Roadmap & Future Goals (2026)
+### 🎯 Roadmap & Future Goals (2026)
 
-### 🤖 AI & Machine Learning Specialization (Upcoming)
-- **Core Focus:** Master Python, Math for ML, Deep Learning, and LLMs.
-- **Research Goal:** Aiming for a research publication (IEEE/Springer) under industry experts.
-- **Project Goal:** Build AI-powered applications by merging Computer Vision & NLP with Web Tech.
+#### 🤖 **AI & Machine Learning Specialization**
+*Planning to enroll in the Phitron AI/ML Expert Program (March 2026)*
+* **Focus:** Master Python, Mathematics for ML, Deep Learning, and LLMs.
+* **Vision:** Bridge Web Technologies with AI to build smart, automated applications.
+* **Goal:** Conduct research and aim for a publication in IEEE/Springer.
 
-### ⚙️ Backend Engineering Mastery
-- **Microservices:** Deep dive into Node.js architecture and System Design.
-- **Integration:** Building scalable SaaS products with custom AI models.
+#### ⚙️ **Advanced Backend Engineering**
+* **Systems:** Deep dive into Microservices, Redis caching, and System Design.
+* **Scalability:** Perfecting SaaS architectures using the MERN stack and AI integration.
+
+---
