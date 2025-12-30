@@ -96,7 +96,6 @@ I specialize in building modern web applications from scratch. Whether it's craf
 ### 📊 GitHub Activity & Stats
 
 <div align="center">
-  <img src="https://metrics.lecoq.io/yeaminstudent5598?template=classic&config.timezone=Asia%2FDhaka" alt="GitHub Metrics" width="100%" />
   
   <br/><br/>
 
