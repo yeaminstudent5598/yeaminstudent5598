@@ -22,9 +22,9 @@ My vision is to bridge the gap between complex human needs and seamless digital 
 #### 💻 What I Do
 I specialize in building modern web applications from scratch. Whether it's crafting intuitive user interfaces with **React.js and Next.js** or architecting robust backends with **Node.js, Express, and Prisma**, I enjoy every bit of the development lifecycle. 
 
-* **Frontend:** Creating pixel-perfect, responsive UIs using **Tailwind CSS and Framer Motion**.
-* **Backend:** Designing secure APIs and managing databases like **MongoDB and PostgreSQL**.
-* **Current Focus:** Building a comprehensive **Multi-vendor E-commerce platform**, focusing on scalability and performance.
+* **Featured Project:** Successfully built a comprehensive **Multi-vendor E-commerce platform**, focusing on scalability and performance.
+* **Current Focus:** Deep diving into **Advanced Next.js patterns, GraphQL, and Software Architecture**.
+* **Stack:** Specialized in **MERN Stack** (MongoDB, Express, React, Node.js).
 
 ---
 
