@@ -96,12 +96,14 @@ I specialize in building modern web applications from scratch. Whether it's craf
 ### 📊 GitHub Activity & Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yeaminstudent5598&show_icons=true&theme=dracula&count_private=true" alt="GitHub Stats" height="180" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yeaminstudent5598&layout=compact&theme=dracula&langs_count=6" alt="Top Languages" height="180" />
-  <br/>
-  <img src="https://streak-stats.demolab.com?user=yeaminstudent5598&theme=dracula" alt="GitHub Streak" height="180" />
-  <br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=yeaminstudent5598&show_icons=true&theme=material-palenight&count_private=true" alt="GitHub Stats" height="170" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yeaminstudent5598&layout=compact&theme=material-palenight&langs_count=6" alt="Top Languages" height="170" />
+</div>
+
+<div align="center" style="margin-top: 10px;">
+  <img src="https://streak-stats.demolab.com?user=yeaminstudent5598&theme=material-palenight" alt="GitHub Streak" height="170" />
+  
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=yeaminstudent5598&theme=dracula&area=true" alt="Activity Graph" width="100%" />
 </div>
 
