@@ -20,7 +20,7 @@ Hi there! 👋 I'm **Yeamin Madbor**, a dedicated **Full-Stack Developer** from 
 My vision is to bridge the gap between complex human needs and seamless digital solutions. I strive to build high-performance, scalable, and user-centric applications that not only solve real-world problems but also empower businesses to grow through the power of clean and efficient code.
 
 #### 💻 What I Do
-I specialize in building modern web applications from scratch. Whether it's crafting intuitive user interfaces with **React.js and Next.js** or architecting robust backends with **Node.js, Express, and Prisma**, I enjoy every bit of the development lifecycle. 
+I specialize in building modern web applications from scratch. Whether it's crafting intuitive user interfaces with **React.js and Next.js** or architecting robust backends with **Node.js, Express, and Prisma**.
 
 * **Featured Project:** Successfully built a comprehensive **Multi-vendor E-commerce platform**, focusing on scalability and performance.
 * **Current Focus:** Deep diving into **Advanced Next.js patterns, GraphQL, and Software Architecture**.
@@ -96,13 +96,13 @@ I specialize in building modern web applications from scratch. Whether it's craf
 ### 📊 GitHub Activity & Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yeaminstudent5598&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Yeamin's GitHub Stats" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yeaminstudent5598&layout=compact&theme=dracula&langs_count=6" alt="Most Used Languages" height="180" />
-</div>
-
-<div align="center" style="margin-top: 10px;">
-  <img src="https://streak-stats.demolab.com?user=yeaminstudent5598&theme=dracula&hide_border=false" alt="GitHub Streak" height="160" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yeaminstudent5598&theme=dracula&area=true" alt="Activity Graph" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=yeaminstudent5598&show_icons=true&theme=dracula&count_private=true" alt="GitHub Stats" height="180" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yeaminstudent5598&layout=compact&theme=dracula&langs_count=6" alt="Top Languages" height="180" />
+  <br/>
+  <img src="https://streak-stats.demolab.com?user=yeaminstudent5598&theme=dracula" alt="GitHub Streak" height="180" />
+  <br/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yeaminstudent5598&theme=dracula&area=true" alt="Activity Graph" width="100%" />
 </div>
 
 ---
@@ -112,7 +112,6 @@ I specialize in building modern web applications from scratch. Whether it's craf
 #### 🤖 **AI & Machine Learning Specialization**
 *Planning to enroll in the Phitron AI/ML Expert Program (March 2026)*
 * **Focus:** Master Python, Mathematics for ML, Deep Learning, and LLMs.
-* **Vision:** Bridge Web Technologies with AI to build smart, automated applications.
 * **Goal:** Conduct research and aim for a publication in IEEE/Springer.
 
 #### ⚙️ **Advanced Backend Engineering**
