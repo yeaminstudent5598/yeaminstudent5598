@@ -8,22 +8,23 @@
   <img src="https://img.shields.io/badge/Full--Stack%20Developer-MERN%20Stack-blue?style=flat-square" alt="Title" />
   <img src="https://img.shields.io/badge/Location-Dhaka%2C%20Bangladesh-green?style=flat-square" alt="Location" />
   <img src="https://img.shields.io/badge/Open%20To-Collaboration-orange?style=flat-square" alt="Status" />
+  <img src="https://img.shields.io/badge/Learning-AI%20%26%20Machine%20Learning-purple?style=flat-square" alt="Learning ML" />
 </p>
 
 ---
 
 ### 🚀 About Me
 
-Hi there! 👋 I'm **Yeamin Madbor**, a dedicated **Full-Stack Developer** from Bangladesh with a deep passion for the **JavaScript and TypeScript** ecosystem. 
+Hi there! 👋 I'm **Yeamin Madbor**, a dedicated **Full-Stack Developer** from Bangladesh with a deep passion for the **JavaScript and TypeScript** ecosystem, now actively expanding my horizons into **Artificial Intelligence and Machine Learning**. 
 
 #### 🔭 My Vision
-My vision is to bridge the gap between complex human needs and seamless digital solutions. I strive to build high-performance, scalable, and user-centric applications that not only solve real-world problems but also empower businesses to grow through the power of clean and efficient code.
+My vision is to bridge the gap between complex human needs and seamless digital solutions. I strive to build high-performance, scalable, and user-centric applications that not only solve real-world problems but also empower businesses to grow through the power of clean code and intelligent AI integration.
 
 #### 💻 What I Do
 I specialize in building modern web applications from scratch. Whether it's crafting intuitive user interfaces with **React.js and Next.js** or architecting robust backends with **Node.js, Express, and Prisma**.
 
 * **Featured Project:** Successfully built a comprehensive **Multi-vendor E-commerce platform**, focusing on scalability and performance.
-* **Current Focus:** Deep diving into **Advanced Next.js patterns, GraphQL, and Software Architecture**.
+* **Current Focus:** Learning **AI/Machine Learning**, while deep diving into **Advanced Next.js patterns and Software Architecture**.
 * **Stack:** Specialized in **MERN Stack** (MongoDB, Express, React, Node.js).
 
 ---
@@ -64,6 +65,15 @@ I specialize in building modern web applications from scratch. Whether it's craf
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" height="40" alt="Prisma ORM" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="Firebase" />
+</p>
+
+#### 🔹 Currently Learning (AI & Machine Learning)
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" height="40" alt="Jupyter" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="Pandas" />
 </p>
 
 #### 🔹 Design & Tools
@@ -108,12 +118,12 @@ I specialize in building modern web applications from scratch. Whether it's craf
 
 ---
 
-### 🎯 Roadmap & Future Goals (2026)
+### 🎯 Roadmap & Current Goals (2026)
 
 #### 🤖 **AI & Machine Learning Specialization**
-*Planning to enroll in the Phitron AI/ML Expert Program (March 2026)*
-* **Focus:** Master Python, Mathematics for ML, Deep Learning, and LLMs.
-* **Goal:** Conduct research and aim for a publication in IEEE/Springer.
+*Currently pursuing the Phitron AI/ML Expert Program (Started March 2026)*
+* **Focus:** Mastering Python, Mathematics for ML, Deep Learning, and LLMs.
+* **Goal:** Integrate AI into full-stack applications, conduct research, and aim for a publication in IEEE/Springer.
 
 #### ⚙️ **Advanced Backend Engineering**
 * **Systems:** Deep dive into Microservices, Redis caching, and System Design.
